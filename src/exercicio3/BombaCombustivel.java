@@ -1,4 +1,4 @@
-package exercio3;
+package exercicio3;
 
 public class BombaCombustivel {
     private String tipo;
