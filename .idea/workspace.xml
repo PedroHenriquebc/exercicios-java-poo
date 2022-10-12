@@ -61,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio8.Main">
-    <configuration name="exercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio7.Main" />
       <module name="exercicios-poo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio2.*" />
+          <option name="PATTERN" value="exercicio7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercicio8.Main" />
         <item itemvalue="Application.exercicio6.Main" />
         <item itemvalue="Application.exercicio4.Main" />
         <item itemvalue="Application.exercicio3.Main" />
-        <item itemvalue="Application.exercicio2.Main" />
       </list>
     </recent_temporary>
   </component>
