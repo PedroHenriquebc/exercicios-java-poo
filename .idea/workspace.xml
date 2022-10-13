@@ -61,26 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.exercicio9.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio7.Main" />
       <module name="exercicios-poo-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercicio7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio3.Main" />
-      <module name="exercicios-poo-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio9.Main" />
+      <module name="exercicios-poo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio9.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercicio8.Main" />
         <item itemvalue="Application.exercicio6.Main" />
         <item itemvalue="Application.exercicio4.Main" />
-        <item itemvalue="Application.exercicio3.Main" />
       </list>
     </recent_temporary>
   </component>
